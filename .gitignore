@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+comp
+build
+bin
+obj
+/packages/**/*
+/comp/**/*
+/node_modules/**/*
+/build/**/*
+/.idea/**/*
+build/**/*
